@@ -1,0 +1,23 @@
+{
+  "name": "angular-storage",
+  "authors": [
+    "J Andrew Scott <jascott@programmer.net> (http://rubberchickenfarm.com)"
+  ],
+  "description": "AngularJS plugin for storing documents and templates",
+  "main": "build/js/angular-storage.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "package.json",
+    "gulpfile.js"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.9",
+    "angular-mocks": "~1.4.9"
+  }
+}
